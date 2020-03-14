@@ -1,0 +1,21 @@
+.hide {
+    display: none;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.red{
+    background-color: red;
+}
+
+.display-inline-block{
+    display: inline-block;
+}
+
+.display-contents{
+
+    display: contents;
+
+}
